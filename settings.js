@@ -18,7 +18,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'VdFlEL76', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'ChkKQZ69fGlPZoe', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
@@ -46,7 +46,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "PirrzaaBOT" //namabot kalian
+global.botname = "PirrzaBOT" //namabot kalian
 global.ownername = "Pirrzaaaa" //nama kalian
 global.myweb = "https://mez.ink/nicetryzaa" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@FYRZAXD" //bebas asal jan hapus
